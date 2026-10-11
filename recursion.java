@@ -48,16 +48,6 @@
 
 // public class recursion {
 
-//     static int power(int base,int exponent){
-//         return base * power(base) ^ power(exponent);  // INCOMPLETE PROGRAM
-//     }
-//     public static void main(String[] args) {
-//         System.out.println(power(2,5));
-//     }
-// }
-
-// public class recursion {
-
 //     static void pattern(int n){
 
 //         for(int i = n;i >= 1;i--){
